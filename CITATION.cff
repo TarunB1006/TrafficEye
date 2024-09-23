@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- 
+  given-names: "Sundarakrishnan N"
+
+- 
+  given-names: "Sohan Varier"
+
+- 
+  given-names: "Tarun Bhupathi"
+
+- 
+  given-names: "Manaswini Simhadri Kavali"
+
+title: "Vehilce-ReID-GetFined"
+version: 1.0.0
+
+date-released: 2024-09-23
+url: "https://github.com/SundarakrishnanN/Vehicle-ReID"
